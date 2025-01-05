@@ -1,0 +1,20 @@
+{
+  "name": "backendhackathon",
+  "version": "1.0.0",
+  "description": "A backend finale hackathon",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "hackathon"
+  ],
+  "author": "Irfan Munir",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
