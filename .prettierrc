@@ -1,0 +1,7 @@
+{
+    "singleQoute": "true",
+    "bracketSpacng": "true",
+    "tabWidth": 2,
+    "tralingoma": "es5",
+    "semi": "true"
+}
